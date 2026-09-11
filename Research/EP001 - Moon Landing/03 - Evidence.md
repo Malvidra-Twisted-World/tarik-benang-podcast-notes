@@ -1615,3 +1615,4 @@ It does **not** independently prove the authenticity of Apollo 11.
 - NASA - Apollo 16 Press Kit
 - NASA - Remembering the First Moon-Based Telescope
 - NASA - Apollo 16 Mission Details
+
