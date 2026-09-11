@@ -17,14 +17,14 @@
 |---|---|---|---|---|
 | E01 | Apollo 11 mission documentation | General Mission | High | 🟢 |
 | E02 | Mission transcripts | C16, C19 | High | 🟢 |
-| E03 | Lunar samples | General Mission | High | 🟢 |
-| E04 | Lunar Laser Retroreflector | General Mission, C16 | High | 🟢 |
-| E05 | Independent Lunar Laser Ranging | General Mission, C16 | High | 🟢 |
-| E06 | Apollo 11 photographs | C01-C05, C13-C14 | High | 🟢 |
-| E07 | Apollo 11 television footage | C01, C09-C10 | High | 🟢 |
-| E08 | Apollo 11 surface experiments | General Mission | High | 🟢 |
-| E09 | Later orbital imaging of landing site | General Mission | High | 🟢 |
-| E10 | Contemporary tracking and communications | C16-C17 | High | 🔎 |
+| E03 | Contemporary tracking and communications | C16-C17 | High | 🔎 |
+| E04 | Lunar samples | General Mission | High | 🟢 |
+| E05 | Apollo 11 Lunar Laser Retroreflector | General Mission, C16 | High | 🟢 |
+| E06 | Independent Lunar Laser Ranging | General Mission, C16 | High | 🟢 |
+| E07 | Apollo 11 photographs | C01-C05, C13-C14 | High | 🟢 |
+| E08 | Apollo 11 television footage | C01, C09-C10 | High | 🟢 |
+| E09 | Apollo 11 surface experiments | General Mission | High | 🟢 |
+| E10 | Later orbital imaging of landing site | General Mission | High | 🟢 |
 | E11 | Apollo spacecraft and hardware | C06, C08 | High | 🔎 |
 | E12 | Apollo radiation measurements | C07 | High | 🔎 |
 
@@ -123,7 +123,67 @@ Very high when combined with:
 
 ---
 
-# E03 - Lunar Samples
+# E03 - Contemporary Tracking and Communications
+
+## Evidence
+
+Apollo missions were tracked through radio and other systems during their journeys.
+
+Potential independent sources include:
+
+- Ground stations
+- Radio observatories
+- Foreign tracking stations
+- Amateur radio observations
+- Soviet monitoring
+- Australian tracking facilities
+
+## Research Question
+
+How much of Apollo 11's trajectory could be independently reconstructed by parties outside NASA?
+
+## Why It Matters
+
+If independent observers could track Apollo 11:
+
+> "NASA fabricated the entire journey"
+
+becomes a much more complicated claim.
+
+Independent tracking is particularly valuable because it addresses whether the mission could be observed from outside the organization that planned and reported it.
+
+## What This Supports
+
+Potentially:
+
+- The spacecraft was transmitting from the expected direction.
+- The spacecraft's trajectory was observable.
+- Mission communications were received outside NASA.
+- Other organizations could independently observe aspects of the mission.
+
+The exact extent of independent verification still needs to be investigated.
+
+## What It Does NOT Prove
+
+Independent tracking of a spacecraft does not automatically prove that the spacecraft contained humans or that every event happened as NASA described.
+
+Tracking also does not automatically prove that every transmission originated from the location claimed by NASA.
+
+The strength of this evidence depends on:
+
+- Who performed the observation
+- What was actually measured
+- Whether the observer was independent
+- Whether the data can be independently reconstructed
+- Whether alternative explanations remain plausible
+
+## Status
+
+🔎 Investigating
+
+---
+
+# E04 - Lunar Samples
 
 ## Evidence
 
@@ -170,7 +230,7 @@ The chain connecting a specific specimen to a specific astronaut and mission mus
 
 ---
 
-# E04 - Apollo 11 Lunar Laser Retroreflector
+# E05 - Apollo 11 Lunar Laser Retroreflector
 
 ## Evidence
 
@@ -210,7 +270,7 @@ That requires additional evidence.
 
 ---
 
-# E05 - Independent Lunar Laser Ranging
+# E06 - Independent Lunar Laser Ranging
 
 ## Evidence
 
@@ -260,7 +320,7 @@ Therefore this evidence must be combined with:
 
 ---
 
-# E06 - Apollo 11 Photography
+# E07 - Apollo 11 Photography
 
 ## Evidence
 
@@ -316,7 +376,7 @@ It must be evaluated together with:
 
 ---
 
-# E07 - Apollo 11 Television Footage
+# E08 - Apollo 11 Television Footage
 
 ## Evidence
 
@@ -360,7 +420,7 @@ The stronger test is whether the footage agrees with independent evidence.
 
 ---
 
-# E08 - Surface Experiments
+# E09 - Surface Experiments
 
 ## Evidence
 
@@ -392,7 +452,7 @@ This should be examined separately from NASA's own mission reports.
 
 ---
 
-# E09 - Later Orbital Imaging
+# E10 - Later Orbital Imaging
 
 ## Evidence
 
@@ -420,43 +480,6 @@ They show the condition of the site afterward.
 ## Strength
 
 **High as later physical/site evidence.**
-
----
-
-# E10 - Contemporary Tracking and Communications
-
-## Evidence
-
-Apollo missions were tracked through radio and other systems during their journeys.
-
-Potential independent sources include:
-
-- Ground stations
-- Radio observatories
-- Foreign tracking stations
-- Amateur radio observations
-- Soviet monitoring
-- Australian tracking facilities
-
-## Research Question
-
-How much of Apollo 11's trajectory could be independently reconstructed by parties outside NASA?
-
-## Why It Matters
-
-If independent observers could track Apollo 11:
-
-> "NASA fabricated the entire journey"
-
-becomes a much more complicated claim.
-
-## What It Does NOT Prove
-
-Independent tracking of a spacecraft does not automatically prove that the spacecraft contained humans or that every event happened as NASA described.
-
-## Status
-
-🔎 Investigating
 
 ---
 
@@ -537,17 +560,25 @@ Mission communications
         ↓
 Independent tracking
         ↓
-Lunar surface activity
+Physical lunar material
         ↓
-Physical hardware
-        ↓
-Lunar samples
-        ↓
-Surface experiments
+Lunar surface hardware
         ↓
 Laser ranging
         ↓
+Surface activity and experiments
+        ↓
+Photography and television
+        ↓
 Later orbital observations
+        ↓
+Engineering and radiation analysis
+
+The important principle is not simply the number of evidence items.
+
+The key question is:
+
+> How many independent lines of evidence converge on the same explanation?
 
 The more independent links that agree with one another, the stronger the overall case becomes.
 
@@ -593,9 +624,10 @@ Then ask:
 1. Physical lunar samples
 2. Lunar laser retroreflectors
 3. Long-term lunar laser ranging
-4. Mission documentation and communications
-5. Later orbital observations of landing sites
-6. Scientific experiments and measurements
+4. Independent tracking and communications
+5. Mission documentation and communications
+6. Later orbital observations of landing sites
+7. Scientific experiments and measurements
 
 ## Weakest Evidence
 
@@ -625,313 +657,482 @@ Visual evidence by itself should be treated carefully because photographs and vi
 - NASA Lunar Reconnaissance Orbiter documentation
 - NASA Lunar Sample documentation
 
+---
+
 # C01 - The Flag
 
 ## Claim
 
-> Bendera Amerika terlihat berkibar di Bulan, padahal Bulan tidak memiliki atmosfer yang dapat menghasilkan angin.
+> “The American flag appears to wave on the Moon, even though the Moon has no atmosphere. Therefore there must have been wind, suggesting the footage was filmed on Earth.”
 
 ---
-
-# Observation
-
-Dalam footage Apollo 11, bendera terlihat bergerak ketika Armstrong dan Aldrin memasang serta memanipulasi tiangnya.
-
-Setelah astronaut berhenti menyentuh bendera, kain dapat terlihat tetap bergerak untuk sementara.
-
-Hal ini sering dipresentasikan sebagai:
-
-> "Bendera berkibar karena ada angin."
-
-Pertanyaan yang benar-benar perlu diuji adalah:
-
-> Apakah gerakan tersebut membutuhkan atmosfer atau angin?
-
----
-
-# Evidence 01 - Flag Construction
 
 ## Observation
 
-Lunar Flag Assembly Apollo menggunakan desain khusus untuk lingkungan Bulan.
+Apollo 11 footage shows the American flag moving while Armstrong and Aldrin install and manipulate the flag assembly.
 
-Karena tidak ada atmosfer yang dapat membuat kain biasa menggantung secara horizontal, NASA menggunakan konstruksi dengan tiang vertikal dan struktur horizontal di bagian atas untuk menopang kain.
+The flag also appears to remain rippled or partially folded after deployment.
 
-## Why It Matters
+The key question is therefore not simply:
 
-Bendera memang dirancang supaya dapat terlihat terbentang di lingkungan lunar.
+> “Why does the flag move if there is no wind?”
 
-Dengan demikian, bentuk horizontal bendera bukan sesuatu yang membutuhkan angin.
+The more useful question is:
 
-## Source
-
-NASA - Flag Day: Flying High, the Stars and Stripes in Space
-
-https://www.nasa.gov/history/flag-day-flying-high-the-stars-and-stripes-in-space/
-
-## Supports
-
-C01 dapat memiliki penjelasan alternatif selain:
-
-> "Ada angin."
+> “Does the observed movement require an atmosphere or wind, or can it be explained by mechanical interaction with the flag and pole?”
 
 ---
 
-# Evidence 02 - Movement During Deployment
+## Evidence 01 - Flag Construction
 
-## Observation
+The Apollo Lunar Flag Assembly was specifically designed for deployment on the Moon.
 
-Dalam footage Apollo 11, gerakan bendera terjadi ketika astronaut:
+Because the lunar environment does not provide an atmosphere capable of making an ordinary hanging flag extend horizontally, the assembly included a telescoping horizontal support rod attached near the top of the vertical pole.
 
-- memasang tiang
-- memutar tiang
-- mengatur posisi bendera
-- menyentuh struktur bendera
+The horizontal rod was intended to hold the flag outward rather than relying on wind.
 
-## Physics Question
+### What this supports
 
-Di lingkungan vacuum, tidak ada udara yang memberikan drag seperti di atmosfer Bumi.
+- The unusual appearance of the flag was anticipated before the mission.
+- The flag did not need wind to remain extended.
+- The apparent “waving” or rippling shape can partly result from the physical structure of the flag.
 
-Ketika sebuah benda digerakkan secara mekanis, gerakannya tidak langsung dihentikan oleh hambatan udara.
+### What this does not prove
 
-Akibatnya, gerakan yang diberikan astronaut dapat bertahan lebih lama.
+The design of the flag does not by itself prove that Apollo 11 landed on the Moon.
 
-## Important Distinction
+It only provides a physical explanation for why the flag could appear extended in a vacuum.
 
-Gerakan setelah disentuh:
+**Assessment:** 🟢 Strong supporting evidence
 
-> Bukan bukti adanya angin.
-
-Gerakan tersebut dapat dijelaskan sebagai:
-
-> Momentum mekanis dari interaksi astronaut dengan struktur bendera.
+**Source:**
+- NASA - Flag Day: Flying High, the Stars and Stripes in Space
+- NASA - 50 Years Ago: One Small Step, One Giant Leap
 
 ---
 
-# Evidence 03 - The Flag Was Not Free-Floating
+## Evidence 02 - Horizontal Support Rod Did Not Fully Extend
 
-## Observation
+The astronauts did not successfully extend the horizontal support rod to its full intended length.
 
-Bendera bukan kain yang digantung bebas pada satu tiang seperti bendera di Bumi.
+Post-mission crew debriefing describes the difficulty encountered while extending the telescoping rod.
 
-Lunar Flag Assembly menggunakan struktur horizontal untuk mempertahankan bentuk kain.
+As a result, the fabric remained partially folded and wrinkled rather than being completely stretched flat.
 
-## Implication
+This is important because the resulting shape can visually resemble a flag blowing in wind even though the shape is being maintained mechanically.
 
-Kain memiliki bentuk yang berbeda dari bendera yang tertiup angin di Bumi.
+### What this supports
 
-Lipatan dan kerutan pada kain dapat tetap terlihat karena tidak ada udara yang menyebabkan kain jatuh dan bergerak seperti bendera terrestrial.
+- The unusual rippled appearance had a documented mechanical cause.
+- The flag was not simply behaving like a conventional Earth flag.
+- The appearance of waves or folds does not require atmospheric airflow.
 
-## Important Question
+### What this does not prove
 
-Apakah bentuk bendera yang terlihat seperti "berkibar" sebenarnya adalah:
+It does not by itself explain every individual movement visible in the footage.
 
-- gerakan kain?
-- lipatan kain?
-- getaran akibat pemasangan?
-- kombinasi semuanya?
+Those movements still need to be considered in relation to astronaut interaction.
 
----
+**Assessment:** 🟢 Strong supporting evidence
 
-# Evidence 04 - Still Photography
-
-Apollo 11 memiliki banyak foto bendera dari berbagai posisi.
-
-NASA's Apollo 11 Image Library mencatat sejumlah foto yang menunjukkan:
-
-- bendera
-- Lunar Module
-- TV camera
-- footprints
-- bayangan bendera
-- lingkungan sekitar landing site
-
-Contoh:
-
-AS11-40-5875
-
-AS11-37-5466
-
-AS11-37-5467
-
-AS11-37-5511
-
-AS11-37-5516
-
-AS11-37-5519
-
-AS11-37-5523
-
-AS11-37-5544
-
-AS11-37-5545
-
-## Why It Matters
-
-Kita tidak hanya memiliki satu frame yang dapat dipilih sebagai "aneh".
-
-Ada rangkaian dokumentasi visual dari beberapa posisi.
-
-## Limitation
-
-Still photographs tidak menunjukkan gerakan.
-
-Karena itu, foto dapat digunakan untuk mempelajari:
-
-- bentuk
-- posisi
-- bayangan
-- struktur
-
-tetapi tidak dapat sendirian menentukan apakah kain sedang bergerak.
+**Source:**
+- Apollo 11 Technical Crew Debriefing
+- NASA Apollo 11 mission documentation
 
 ---
 
-# Evidence 05 - Video and Still Images Can Be Compared
+## Evidence 03 - Movement Occurs During Astronaut Interaction
 
-Apollo 11 memiliki footage televisi dan still photography dari aktivitas flag deployment.
+The Apollo 11 footage shows Armstrong and Aldrin physically manipulating the flag and its pole during deployment.
 
-NASA mencatat bahwa footage deployment dapat dibandingkan dengan film dari kamera otomatis yang ditempatkan di Lunar Module.
+The movement therefore occurs in a clear mechanical context.
 
-## Investigative Value
+The astronauts:
 
-Ini memungkinkan kita memeriksa:
+- handle the pole,
+- rotate and position the assembly,
+- manipulate the flag,
+- pull on the flag structure,
+- and make adjustments while attempting to deploy it.
 
-- kapan bendera bergerak
-- apa yang dilakukan astronaut ketika gerakan terjadi
-- kapan gerakan berhenti
-- apakah gerakan terjadi ketika ada kontak fisik
+The flag is not shown as a completely untouched object suddenly beginning to move.
 
-## Important Question
+### What this supports
 
-Jika gerakan hanya muncul ketika astronaut menyentuh atau memutar tiang, maka hipotesis:
+The observed motion has an immediate physical source:
 
-> "angin menyebabkan gerakan"
+> astronaut → mechanical force → flag/pole movement
 
-menjadi jauh lebih lemah.
+This is sufficient to create movement without requiring wind.
 
----
+### What this does not prove
 
-# Counterpoint 01 - "But It Keeps Moving"
+It does not prove that every frame of movement has been completely analyzed.
 
-## Claim
+A proper frame-by-frame examination is still useful to determine exactly when motion starts, how long it persists, and whether any unexplained motion occurs after astronaut interaction has stopped.
 
-> Kalau tidak ada udara, bendera seharusnya langsung berhenti bergerak.
+**Assessment:** 🟢 Strong supporting evidence
 
-## Analysis
-
-Ini mengasumsikan bahwa benda membutuhkan udara untuk dapat bergerak atau berhenti.
-
-Padahal benda yang sudah bergerak memiliki momentum.
-
-Di atmosfer Bumi, udara memberikan drag.
-
-Di vacuum, drag udara praktis tidak ada.
-
-Dengan demikian, gerakan yang diberikan secara mekanis dapat berlangsung lebih lama.
-
-## Result
-
-Gerakan yang bertahan setelah disentuh tidak membutuhkan angin sebagai penjelasan.
+**Source:**
+- Apollo 11 TV footage
+- Apollo 11 16-mm film
+- Apollo 11 mission timeline
 
 ---
 
-# Counterpoint 02 - "It Looks Like Wind"
+## Evidence 04 - Apollo 11 TV and 16-mm Film Provide Multiple Records
 
-## Claim
+The flag deployment was recorded through more than one imaging system.
 
-> Bentuk bendera terlihat seperti sedang tertiup angin.
+Apollo 11 produced television footage of the surface activity, while an automatic 16-mm camera mounted in the Lunar Module also recorded portions of the operation.
 
-## Analysis
+NASA provides material allowing the deployment sequence from the different recordings to be compared and synchronized.
 
-Bendera memang sengaja dibuat menggunakan horizontal support bar.
+This creates an opportunity to examine the same physical event through independent recording systems rather than relying on a single clip.
 
-Tanpa support tersebut, kain akan cenderung menggantung ke bawah dalam kondisi tanpa atmosfer.
+### What this supports
 
-Karena itu, tampilan kain yang terbentang bukan bukti bahwa udara sedang mendorongnya.
+- The deployment sequence can be checked against multiple visual records.
+- Timing and astronaut movements can be compared.
+- Apparent flag movement can be examined in relation to physical interaction.
 
-## Result
+### What this does not prove
 
-Appearance alone tidak cukup untuk menyimpulkan adanya atmosfer atau angin.
+Multiple recordings from the Apollo mission are not automatically independent of NASA.
+
+They are still mission-generated records and therefore should not be treated as equivalent to an unrelated external observation.
+
+**Assessment:** 🟢 Strong primary documentation
+
+**Source:**
+- NASA Apollo 11 Video Library
+- NASA Apollo 11 Image Library
+- NASA Flag Day documentation
 
 ---
 
-# Counterpoint 03 - "There Is No Wind on the Moon"
+## Evidence 05 - Mechanical Motion in Vacuum
 
-## Observation
+The absence of an atmosphere does not prevent an object from moving.
 
-Bulan hampir tidak memiliki atmosfer yang dapat menghasilkan angin seperti di Bumi.
+If an astronaut applies force to a flag or pole, the resulting motion can continue after the astronaut stops touching it.
 
-## Result
+On Earth, air resistance provides an additional source of drag that tends to damp motion.
 
-Jika gerakan bendera benar-benar membutuhkan aliran udara, itu akan menjadi masalah.
+In a vacuum, that aerodynamic drag is greatly reduced.
 
-Namun kita harus terlebih dahulu membuktikan bahwa gerakan tersebut memang membutuhkan aliran udara.
+Therefore:
 
-Benda yang digerakkan secara mekanis tidak membutuhkan angin untuk bergerak.
+> mechanical movement + low atmospheric drag ≠ wind
+
+The flag can move after being disturbed without requiring air movement.
+
+### What this supports
+
+- Movement after physical contact is compatible with a vacuum environment.
+- The continued motion of the flag is not, by itself, evidence of wind.
+- The absence of air does not mean mechanically induced movement must stop immediately.
+
+### What this does not prove
+
+This general physical principle does not prove that the Apollo 11 footage is authentic.
+
+It only establishes that the proposed mechanical explanation is physically plausible.
+
+**Assessment:** 🟢 Physically consistent
+
+---
+
+## Evidence 06 - Still Photography
+
+Apollo 11 produced extensive still photography of the flag and landing site.
+
+Examples include:
+
+- AS11-40-5875
+- AS11-37-5466
+- AS11-37-5467
+- AS11-37-5511
+- AS11-37-5516
+- AS11-37-5519
+- AS11-37-5523
+- AS11-37-5544
+- AS11-37-5545
+
+These images show the flag in relation to:
+
+- the Lunar Module,
+- astronauts,
+- the lunar surface,
+- shadows,
+- the television camera,
+- and surrounding terrain.
+
+Still photography cannot directly establish motion, but it can be used to examine the physical configuration of the flag assembly.
+
+### What this supports
+
+- The flag's structure and position can be examined independently of the moving footage.
+- The appearance of the flag is consistent with a mechanically supported, partially folded fabric structure.
+
+### What this does not prove
+
+Still photographs alone cannot prove exactly where or when they were taken.
+
+They need to be considered alongside mission records, camera documentation, timing, geometry, and other observations.
+
+**Assessment:** 🟢 Supporting evidence
+
+**Source:**
+- NASA Apollo 11 Image Library
+- NASA Apollo 11 photographic documentation
+
+---
+
+## Evidence 07 - Photogrammetry of the Flagpole
+
+NASA photographic analysis has been used to examine the geometry of Apollo 11 photographs.
+
+Analysis of photographs including AS11-40-5875 indicates that the flagpole was not perfectly vertical and was positioned at approximately a 2-degree angle.
+
+This is consistent with the documented difficulty the astronauts experienced while positioning the pole.
+
+### What this supports
+
+- The photographic geometry is consistent with the physical description given by the astronauts.
+- The flag assembly can be analyzed as a three-dimensional physical object rather than simply as an image artifact.
+
+### What this does not prove
+
+Photogrammetry does not independently establish that the photograph was taken on the Moon.
+
+It is supporting evidence rather than a standalone proof of the landing.
+
+**Assessment:** 🟢 Supporting evidence
+
+**Source:**
+- NASA Apollo 11 Photogrammetry
+
+---
+
+# Counterargument 01 - “But the Flag Keeps Moving”
+
+This is the strongest version of the visual objection.
+
+The important distinction is between:
+
+> continuous movement caused by airflow
+
+and
+
+> movement caused by mechanical disturbance.
+
+The astronauts are visibly interacting with the flag and pole during deployment.
+
+A mechanically disturbed object can continue moving after the source of the force is removed.
+
+The vacuum environment removes much of the aerodynamic damping that would otherwise occur on Earth.
+
+Therefore, continued movement after contact is not unexpected.
+
+**Assessment:** 🟢 Explained by known mechanics
+
+---
+
+# Counterargument 02 - “It Looks Exactly Like Wind”
+
+The appearance of the flag is not sufficient to establish its cause.
+
+The flag uses a horizontal support rod specifically because there is no lunar atmosphere to hold the fabric outward.
+
+The rod did not fully extend, leaving folds and wrinkles in the fabric.
+
+The resulting shape resembles a flag caught in wind, but visual resemblance does not establish the physical mechanism producing the shape.
+
+**Assessment:** 🟢 Appearance is insufficient evidence for wind
+
+---
+
+# Counterargument 03 - “There Is No Wind on the Moon, So the Movement Is Impossible”
+
+This argument assumes:
+
+> movement → wind
+
+That implication is incorrect.
+
+A more complete physical model is:
+
+> force → acceleration → movement
+
+Wind is only one possible source of force.
+
+In this case, direct mechanical interaction with the flag and pole provides another source.
+
+The relevant question is therefore whether the observed movement is inconsistent with mechanical interaction.
+
+So far, no such inconsistency has been established.
+
+**Assessment:** 🟢 Counterargument does not establish an anomaly
 
 ---
 
 # What Would Actually Be Suspicious?
 
-Gerakan bendera akan jauh lebih sulit dijelaskan jika:
+The claim would become considerably more interesting if the footage demonstrated one or more of the following:
 
-1. Bendera bergerak tanpa adanya interaksi astronaut.
-2. Gerakan terjadi secara terus-menerus.
-3. Gerakan memiliki pola yang konsisten dengan aliran udara.
-4. Gerakan berbeda dari apa yang diprediksi oleh mekanika benda dalam vacuum.
-5. Terdapat bukti lain mengenai atmosfer lokal yang dapat menghasilkan angin.
+1. The flag begins moving while neither astronaut is interacting with it.
+2. The movement continues indefinitely rather than gradually settling.
+3. The movement displays a pattern consistent with sustained airflow.
+4. The flag moves in a way inconsistent with the mechanics of its support structure.
+5. Other nearby objects show evidence of the same supposed airflow.
+6. A physical mechanism capable of producing atmospheric wind can be demonstrated at the landing site.
 
-Tidak cukup hanya menunjukkan:
+These are stronger tests than simply observing that the flag moves.
 
-> "Benderanya bergerak."
+---
+
+# Frame-by-Frame Investigation
+
+The deployment footage should be examined in the following sequence:
+
+### Phase 1 - Initial manipulation
+
+Determine:
+
+- when the astronauts first touch the flag,
+- which part of the structure they touch,
+- whether the flag begins moving immediately afterward.
+
+### Phase 2 - Pole positioning
+
+Determine:
+
+- whether movement is transmitted through the pole,
+- whether rotation of the pole produces additional flag movement,
+- whether the fabric oscillates after the astronauts release it.
+
+### Phase 3 - Release
+
+Determine:
+
+- when the astronauts stop interacting with the flag,
+- how long the flag continues moving,
+- whether the amplitude decreases over time.
+
+### Phase 4 - Settling
+
+Determine:
+
+- whether the motion gradually decreases,
+- whether the flag eventually becomes relatively stationary,
+- whether any new unexplained movement occurs after settling.
+
+### Current Status
+
+⏳ **Detailed frame-by-frame timing remains to be completed.**
+
+The available mission records already establish the broader context of the movement, but a frame-level audit would make the conclusion stronger.
+
+---
+
+# Evidence Chain
+
+The current evidence chain for C01 is:
+
+> Flag appears to move  
+> ↓  
+> Flag uses a mechanical horizontal support  
+> ↓  
+> Support did not fully extend  
+> ↓  
+> Fabric remained folded/rippled  
+> ↓  
+> Astronauts physically manipulated the flag and pole  
+> ↓  
+> Mechanical disturbance can produce motion without wind  
+> ↓  
+> Multiple mission recordings document the deployment  
+> ↓  
+> No demonstrated requirement for lunar wind
+
+---
+
+# What We Can Actually Conclude
+
+### Supported
+
+- The flag visibly moves during deployment.
+- The flag was specifically designed for use without an atmosphere.
+- The horizontal support rod was intended to hold the flag outward.
+- The rod did not fully extend.
+- The astronauts physically manipulated the flag and pole.
+- Mechanical motion can occur without atmospheric wind.
+- Multiple Apollo 11 recordings document the deployment sequence.
+- The visual appearance of the flag does not require wind as an explanation.
+
+### Not established by this investigation
+
+- This evidence alone does not prove the Apollo 11 landing occurred.
+- This evidence alone does not prove that every Apollo 11 recording is authentic.
+- The frame-by-frame behavior of every movement has not yet been independently quantified.
+- The existence of a physically plausible explanation does not automatically eliminate every possible alternative hypothesis.
 
 ---
 
 # Current Assessment
 
-**Status:** 🟢 Strong Alternative Explanation
+🟢 **Strong Alternative Explanation**
 
-## What We Know
+The observation itself is real:
 
-- Bendera menggunakan struktur horizontal.
-- Astronaut berinteraksi langsung dengan struktur tersebut.
-- Gerakan dapat muncul akibat manipulasi mekanis.
-- Vacuum menghilangkan hambatan udara yang biasanya memperlambat gerakan.
-- Bentuk kain yang terbentang tidak memerlukan angin.
+> **The flag moves.**
 
-## What This Does Not Prove
+However, the additional claim:
 
-Analisis ini tidak dengan sendirinya membuktikan:
+> **“The flag moves because there is wind.”**
 
-> "Apollo 11 pasti mendarat di Bulan."
+is not supported by the available evidence.
 
-Ini hanya menguji satu klaim:
+The observed movement is consistent with:
 
-> "Bendera bergerak, jadi pasti ada angin / atmosfer."
+- direct astronaut interaction,
+- mechanical movement of the pole and fabric,
+- inertia,
+- and the reduced aerodynamic damping of the lunar environment.
 
-Untuk klaim tersebut, bukti yang ada memiliki penjelasan fisika yang konsisten tanpa membutuhkan angin.
+The unusual appearance of the flag is also consistent with its mechanical support structure and the incomplete extension of the horizontal rod.
 
 ---
 
 # Verdict
 
-**C01 - Flag**
-
 ### Claim
 
-> Bendera berkibar karena ada angin di Bulan.
+> “The American flag is waving because there is wind on the Moon.”
 
 ### Assessment
 
-**🔴 Contradicted**
+🔴 **Contradicted**
 
-Tidak ada kebutuhan untuk memasukkan angin sebagai penjelasan.
+The available evidence does not require wind to explain the flag's movement.
 
-Gerakan dapat dijelaskan oleh interaksi astronaut dengan flag assembly dan perilaku benda yang digerakkan dalam vacuum.
+A mechanical explanation is directly supported by the deployment sequence and is physically consistent with the lunar environment.
 
-### Remaining Question
+### Important distinction
 
-Apakah bentuk dan gerakan bendera dalam footage benar-benar konsisten dengan model fisika tersebut?
+This verdict applies **only to the claim that the flag's movement demonstrates wind**.
 
-**Next:** analisis frame-by-frame footage deployment.
+It does **not** independently establish the authenticity of the Apollo 11 landing.
+
+---
+
+# Sources
+
+- NASA - Flag Day: Flying High, the Stars and Stripes in Space
+- NASA - 50 Years Ago: One Small Step, One Giant Leap
+- NASA - Apollo 11 Technical Crew Debriefing
+- NASA - Apollo 11 Video Library
+- NASA - Apollo 11 Image Library
+- NASA - Apollo 11 Photogrammetry
+- NASA - Apollo 11 Mission Documentation
