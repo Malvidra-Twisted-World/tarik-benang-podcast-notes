@@ -1136,3 +1136,482 @@ It does **not** independently establish the authenticity of the Apollo 11 landin
 - NASA - Apollo 11 Image Library
 - NASA - Apollo 11 Photogrammetry
 - NASA - Apollo 11 Mission Documentation
+
+# C02 - No Stars in the Photos
+
+## Claim
+
+> “There are no stars visible in the Apollo Moon photographs. If the astronauts were really on the Moon, the stars should have been clearly visible in the sky. Their absence suggests the photographs were taken on a film set.”
+
+---
+
+## Observation
+
+Many Apollo photographs taken on the lunar surface show:
+
+- a black sky,
+- brightly illuminated lunar terrain,
+- astronauts,
+- the Lunar Module,
+- equipment and other surface objects,
+- but no visible stars.
+
+The observation itself is real.
+
+The question is not:
+
+> “Are there really no stars in the photographs?”
+
+They are generally not visible.
+
+The more useful question is:
+
+> “Would stars necessarily be visible in a photograph exposed correctly for the sunlit lunar surface?”
+
+---
+
+## Evidence 01 - Apollo 11 Photographic Exposure
+
+The Apollo 11 Mission Report provides specific information about the photographic settings used during the lunar surface EVA.
+
+Preflight simulations and training photography showed that shutter speeds of 1/125 second or slower could allow excessive image motion caused by the suited astronaut.
+
+A shutter speed of approximately 1/250 second was therefore selected as the nominal setting for general lunar surface photography.
+
+The corresponding aperture was adjusted according to the lighting conditions.
+
+For simplified operations:
+
+- f/5.6 was used for cross-sun photography.
+- f/11 was used for down-sun photography.
+
+The Mission Report states that these settings were successfully used for most lunar surface photography.
+
+### What this supports
+
+- Apollo surface photography was deliberately exposed for the bright lunar environment.
+- The camera was not using long astronomical exposures for ordinary surface photographs.
+- The photographic settings are documented in the mission report rather than inferred from the appearance of the photographs.
+
+### What this does not prove
+
+These settings alone do not prove why every individual photograph contains no visible stars.
+
+Individual photographs can have different exposure settings depending on the subject and lighting conditions.
+
+**Assessment:** 🟢 Strong primary evidence
+
+**Source:**
+- Apollo 11 Mission Report
+
+---
+
+## Evidence 02 - The Lunar Surface Was Extremely Bright Compared With Background Stars
+
+The fundamental problem is dynamic range.
+
+During the lunar EVA, the astronauts were photographing objects directly illuminated by sunlight.
+
+The lunar surface, spacesuits, Lunar Module, and equipment therefore produced much stronger photographic signals than distant stars.
+
+NASA explains that photographs of Apollo astronauts on the Moon generally do not show stars because the subjects being photographed were so much brighter than the background stars that the exposure needed for the foreground was too short to record the stars.
+
+The same principle applies to many spacecraft photographs taken near bright objects.
+
+### What this supports
+
+- A photograph can have a completely black-looking sky while still failing to record faint stars.
+- The brightness of the foreground determines the useful exposure range.
+- The absence of stars is compatible with an exposure optimized for the lunar surface.
+
+### What this does not prove
+
+It does not establish the authenticity of Apollo photographs by itself.
+
+It establishes a physically plausible and well-understood photographic explanation.
+
+**Assessment:** 🟢 Strong physical explanation
+
+**Source:**
+- NASA Science - Where Are the Stars?
+
+---
+
+## Evidence 03 - Longer Exposure Would Change the Photograph
+
+NASA's Space Math material demonstrates the exposure problem using an Apollo 11 lunar photograph.
+
+The material compares the original photograph with a simulated longer exposure of approximately 20 seconds.
+
+With a sufficiently long exposure, much fainter stars can become detectable.
+
+However, the lunar surface becomes dramatically overexposed and loses useful surface detail.
+
+This demonstrates the central tradeoff:
+
+> Short exposure → bright lunar surface correctly exposed, faint stars disappear.
+
+> Long exposure → faint stars become detectable, bright lunar surface becomes severely overexposed.
+
+The problem is therefore not that stars cannot be photographed.
+
+The problem is that the camera cannot simultaneously optimize the same exposure for extremely bright foreground objects and extremely faint background stars.
+
+### What this supports
+
+- The absence of stars is an expected consequence of exposure selection.
+- Increasing exposure can reveal stars.
+- The same increase can destroy the exposure of the lunar surface.
+
+### What this does not prove
+
+The simulation is an educational demonstration rather than a reconstruction of every exact Apollo camera setting.
+
+It should therefore be treated as an illustration of the photographic principle rather than as a precise reproduction of a particular Apollo frame.
+
+**Assessment:** 🟢 Strong illustrative evidence
+
+**Source:**
+- NASA Space Math - Where Did All the Stars Go?
+
+---
+
+## Evidence 04 - The Apollo Cameras Were Capable of Recording Stars
+
+A stronger version of the conspiracy claim is:
+
+> “If the cameras were on the Moon, they should have been able to photograph stars.”
+
+The premise is partly correct.
+
+Apollo photographic equipment could record stars under appropriate conditions.
+
+The important variable is exposure.
+
+NASA documentation from later Apollo missions demonstrates that cameras were deliberately used for stellar photography.
+
+Apollo 16, for example, carried a dedicated stellar camera as part of its mapping camera system.
+
+The stellar camera photographed the star field simultaneously with lunar surface mapping photography to provide an independent attitude reference.
+
+NASA's Apollo 16 mission documentation reports that satisfactory stellar photography was obtained on all mapping-camera passes.
+
+### What this supports
+
+- Apollo-era cameras were capable of recording stars.
+- Stellar photography was an actual mission requirement.
+- The absence of stars from ordinary surface photographs cannot be explained by saying the cameras were inherently incapable of detecting them.
+
+### What this does not prove
+
+Apollo 16's stellar camera was a different photographic system and operated for a different purpose.
+
+It therefore cannot be used to claim that the standard Apollo 11 surface photographs should also contain visible stars.
+
+**Assessment:** 🟢 Strong comparative evidence
+
+**Source:**
+- Apollo 16 Mission Report
+- Apollo 16 Press Kit
+
+---
+
+## Evidence 05 - Apollo 16 Photographed Stars From the Lunar Surface
+
+Apollo 16 provides an even stronger demonstration.
+
+The mission deployed the Far Ultraviolet Camera/Spectrograph on the lunar surface.
+
+The instrument was designed as a lunar astronomical observatory and was used to photograph celestial objects including stars, nebulae, star clusters, and the Large Magellanic Cloud.
+
+NASA describes it as the first telescope used for astronomical observations from the surface of another planetary body.
+
+The instrument was placed in the shadow of the Lunar Module to protect it from direct sunlight and to provide suitable observing conditions.
+
+### What this supports
+
+- Stars can be photographed from the lunar surface.
+- The Moon's lack of atmosphere does not prevent astronomical photography.
+- Specialized astronomical observations require different equipment and observing conditions from ordinary surface photography.
+
+### What this does not prove
+
+The Apollo 16 ultraviolet telescope does not directly explain the exposure of every Apollo 11 Hasselblad photograph.
+
+It demonstrates something more limited but important:
+
+> The absence of stars in ordinary Apollo surface photographs is not evidence that stars were absent from the lunar sky.
+
+**Assessment:** 🟢 Strong comparative evidence
+
+**Source:**
+- NASA - Remembering the First Moon-Based Telescope
+- Apollo 16 mission documentation
+
+---
+
+## Evidence 06 - Apollo Astronauts Reported the Visual Problem Directly
+
+This is particularly useful because it comes from the crew rather than from a later technical explanation.
+
+During a post-mission press conference, Neil Armstrong was asked whether the astronauts could see stars from the lunar surface despite the glare.
+
+Armstrong explained that they were unable to see stars from the lunar surface by eye during the daylight side without looking through optics.
+
+NASA later summarized the surface experience similarly: the bright sunlit ground interfered with the astronauts' night vision, and Earth was the prominent bright object visible in the sky.
+
+### What this supports
+
+- The astronauts' own account is consistent with the brightness problem.
+- The black lunar sky did not automatically mean that stars would be visually obvious to a person standing on the surface.
+- The issue was not unique to the camera.
+
+### What this does not prove
+
+A crew statement is still testimony from the participants.
+
+It should therefore be considered alongside the photographic and physical evidence rather than treated as independent proof.
+
+**Assessment:** 🟢 Supporting primary testimony
+
+**Source:**
+- Apollo 11 Post-Mission Press Conference
+- NASA - Wide Awake on the Sea of Tranquillity
+
+---
+
+# Counterargument 01 - “But the Sky Is Completely Black”
+
+This argument relies on a visual intuition developed from Earth.
+
+On Earth:
+
+> dark sky → stars become visible
+
+But the lunar surface during the Apollo EVA was being illuminated directly by sunlight.
+
+The sky itself could remain black because the Moon has essentially no atmosphere to scatter sunlight into a blue daytime sky.
+
+At the same time, the astronaut and surface were intensely illuminated.
+
+Therefore:
+
+> black sky + extremely bright foreground
+
+is completely compatible with:
+
+> faint stars not appearing in the photograph.
+
+The darkness of the sky does not tell us how long the camera must expose to record stars.
+
+---
+
+# Counterargument 02 - “If the Astronauts Could See the Stars, the Camera Should Have Seen Them”
+
+This assumes the human eye and photographic film respond identically to the same scene.
+
+They do not.
+
+The human visual system adapts to brightness and contrast.
+
+The camera, meanwhile, records the amount of light reaching the film during a particular exposure.
+
+During an Apollo EVA, the camera was intentionally optimized for brightly illuminated subjects such as:
+
+- astronauts,
+- the Lunar Module,
+- equipment,
+- rocks,
+- and the lunar surface.
+
+A camera exposure suitable for these subjects can fail to record much fainter stars.
+
+Therefore:
+
+> “The stars were physically present”
+
+does not imply:
+
+> “The stars must appear in every photograph.”
+
+---
+
+# Counterargument 03 - “NASA Could Simply Have Used a Longer Exposure”
+
+Technically, they could.
+
+But a longer exposure would not preserve the same surface photograph.
+
+If exposure were increased enough to reveal faint stars, the strongly illuminated lunar surface and astronaut suits would become increasingly overexposed.
+
+NASA's own educational demonstration shows this tradeoff.
+
+The photographer therefore has to choose what the photograph is intended to record.
+
+For most Apollo surface photography, the goal was not astrophotography.
+
+It was documentation of:
+
+- the astronauts,
+- geological samples,
+- equipment,
+- the Lunar Module,
+- experiments,
+- and the lunar terrain.
+
+The exposure was therefore chosen for those subjects.
+
+---
+
+# Counterargument 04 - “But There Are No Stars in Any of the Photos”
+
+The claim is stronger than the evidence allows.
+
+There are many Apollo photographs without visible stars, but this does not mean Apollo photography as a whole never recorded stars.
+
+Apollo missions included dedicated astronomical and stellar photography.
+
+Apollo 16 in particular produced stellar photography from lunar orbit and astronomical observations from the lunar surface.
+
+Therefore the correct distinction is:
+
+> ordinary lunar surface photography
+
+versus
+
+> dedicated astronomical photography.
+
+The two had different photographic objectives and exposure requirements.
+
+---
+
+# What Would Actually Be Suspicious?
+
+The lack of visible stars would become more interesting if:
+
+1. The surface exposure were independently shown to be long enough to record stars of the relevant brightness.
+2. The camera settings were incompatible with the observed foreground brightness.
+3. Stars should have been above the film's detection threshold but were systematically removed.
+4. Different photographs taken under equivalent exposure conditions showed unexplained differences in stellar visibility.
+5. Evidence showed that the Apollo cameras were deliberately configured to remove or suppress stars.
+
+Without such evidence, the mere absence of stars is not a strong anomaly.
+
+---
+
+# Evidence Chain
+
+The current evidence chain for C02 is:
+
+> Apollo surface photographs show no visible stars
+>
+> ↓
+>
+> Apollo 11 surface photography used relatively short exposures for bright lunar subjects
+>
+> ↓
+>
+> The lunar surface and astronauts were much brighter photographic targets than background stars
+>
+> ↓
+>
+> Longer exposure would make faint stars easier to record
+>
+> ↓
+>
+> Longer exposure would also overexpose the sunlit lunar surface
+>
+> ↓
+>
+> Apollo photographic systems were capable of stellar photography when configured for it
+>
+> ↓
+>
+> Dedicated Apollo astronomical instruments successfully photographed stars from lunar orbit and the lunar surface
+>
+> ↓
+>
+> Therefore the absence of stars from ordinary Apollo surface photographs is consistent with exposure selection
+
+---
+
+# What We Can Actually Conclude
+
+### Supported
+
+- Many Apollo lunar surface photographs contain no visible stars.
+- Apollo 11 used documented photographic settings optimized for lunar surface photography.
+- A nominal shutter speed of approximately 1/250 second was used for most general surface photography.
+- The lunar surface and astronauts were strongly illuminated by sunlight.
+- Stars are much fainter photographic targets than the sunlit lunar foreground.
+- Longer exposures can reveal stars.
+- Longer exposures can simultaneously overexpose bright foreground objects.
+- Apollo photographic systems were capable of stellar photography.
+- Apollo 16 successfully photographed stars from lunar orbit and used a dedicated astronomical camera from the lunar surface.
+- Apollo astronauts reported difficulty seeing stars by eye from the sunlit lunar surface.
+
+### Not established by this investigation
+
+- The absence of stars alone does not prove the photographs are authentic.
+- The absence of stars alone does not prove a studio was not used.
+- We have not independently measured the exact exposure and film response of every Apollo 11 photograph.
+- The Apollo 16 astronomical instruments should not be treated as identical to the Apollo 11 surface Hasselblad camera.
+- The absence of stars cannot independently establish that Apollo 11 occurred.
+
+---
+
+# Current Assessment
+
+🟢 **Strong Alternative Explanation**
+
+The observation is real:
+
+> **Stars generally do not appear in ordinary Apollo lunar surface photographs.**
+
+However, the stronger claim:
+
+> **“The absence of stars proves the photographs were not taken on the Moon.”**
+
+is not supported.
+
+The documented camera settings, the extreme brightness difference between the lunar foreground and background stars, the known exposure tradeoff, and the existence of dedicated Apollo stellar photography all provide a coherent alternative explanation.
+
+The evidence does not require stars to be visible in ordinary lunar surface photographs.
+
+---
+
+# Verdict
+
+### Claim
+
+> “There are no stars in Apollo photographs because the photographs were taken on a film set rather than on the Moon.”
+
+### Assessment
+
+🔴 **Contradicted**
+
+The absence of stars is expected to be compatible with ordinary lunar surface photography when the camera is exposed for brightly illuminated foreground subjects.
+
+The Apollo photographic record also demonstrates that stars could be recorded when appropriate equipment and exposure conditions were used.
+
+### Important distinction
+
+This verdict applies only to:
+
+> **“The absence of stars is evidence that the photographs were not taken on the Moon.”**
+
+It does **not** independently prove the authenticity of Apollo 11.
+
+---
+
+# Sources
+
+- NASA - Apollo 11 Mission Report
+- NASA Science - Where Are the Stars?
+- NASA Space Math - Where Did All the Stars Go?
+- NASA - Wide Awake on the Sea of Tranquillity
+- NASA - Apollo 11 Post-Mission Press Conference
+- NASA - Apollo 16 Mission Report
+- NASA - Apollo 16 Press Kit
+- NASA - Remembering the First Moon-Based Telescope
+- NASA - Apollo 16 Mission Details
